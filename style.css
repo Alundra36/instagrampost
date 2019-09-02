@@ -1,0 +1,28 @@
+.titulo{
+
+}
+.titulo div{
+    overflow:hidden;
+    float: left;
+}
+#foto1{
+    float:right;
+    height: 50px;
+    width: 50px;
+}
+#foto2{
+    height: 50px;
+    width: 50px;
+}
+#foto3{
+    height: 500px;
+    width: 500px;
+}
+.cajon {
+    overflow:hidden;
+}
+.cajon img{
+    float:left;
+    width:32px;
+
+}
